@@ -1,0 +1,28 @@
+name: musefuse
+favicon: null
+layout_spectrum: 0.6097047498915344
+typography_spectrum: 0.012286164797842503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6232015148270875
+  lightness: 0.7272115696687251
+  saturation: 0.36092099733650684
+  rhythmicContrast: 0.22334661427885294
+purpose: []
